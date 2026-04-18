@@ -1,4 +1,4 @@
-I am a first-year Accounting PhD student at the [John T. Steed School of Accounting](https://price.ou.edu/accounting/), [Price College of Business](https://price.ou.edu/), University of Oklahoma (OU).
+I am a first-year Accounting PhD student at the [John T. Steed School of Accounting](https://price.ou.edu/accounting/), [Price College of Business](https://price.ou.edu/), University of Oklahoma (OU), advised by [Prof. Agnes Cheng](https://www.ou.edu/price/bios/agnes-cheng) and [Prof. Meng Li](https://www.ou.edu/price/bios/meng-li).
 
 My research interests lie in financial archival accounting, with a focus on corporate disclosure, labor-related events, and regulatory changes in accounting.
 
