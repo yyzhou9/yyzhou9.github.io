@@ -22,10 +22,14 @@
   --primary: #1e293b;
   --primary-light: #334155;
   --primary-dark: #0f172a;
-  --accent: #d4a562;
+  /* --accent: #d4a562;
   --accent-light: #e4b976;
-  --accent-dark: #b8914d;
-  
+  --accent-dark: #b8914d; */
+
+  --accent: #841617; /* Change color to OU crimson 2026Apr18 */
+  --accent-light: #a01c1d; /* Change color to OU crimson 2026Apr18 */
+  --accent-dark: #6a1112; /* Change color to OU crimson 2026Apr18 */
+    
   /* Neutral colors */
   --neutral-50: #f8fafc;
   --neutral-100: #f1f5f9;

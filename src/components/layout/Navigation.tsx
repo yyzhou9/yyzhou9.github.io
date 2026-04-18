@@ -244,13 +244,13 @@ export default function Navigation({
                       })}
                     </div>
                     <LanguageToggle i18n={i18n} />
-                    <ThemeToggle />
+                    {/* <ThemeToggle /> */} {/* 关掉黑白页面切换选项 2026APR18*/}
                   </div>
                 </div>
 
                 <div className="lg:hidden flex items-center space-x-2">
                   <LanguageToggle i18n={i18n} />
-                  <ThemeToggle />
+                  {/* <ThemeToggle /> */} {/* 关掉黑白页面切换选项 2026APR18*/}
                   <Disclosure.Button className="inline-flex items-center justify-center p-2 rounded-md text-neutral-600 hover:text-primary hover:bg-neutral-100 dark:hover:bg-neutral-800 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-accent transition-colors duration-200">
                     <span className="sr-only">{messages.navigation.openMainMenu}</span>
                     <motion.div
