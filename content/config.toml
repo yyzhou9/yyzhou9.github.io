@@ -1,7 +1,8 @@
 [site]
 title = "Yeyang Zhou"
 description = "PhD Student in Accounting at the University of Oklahoma."
-favicon = "/favicon.svg"
+# favicon = "/favicon.svg"
+favicon = ""
 last_updated = "April 2026"
 
 [author]
