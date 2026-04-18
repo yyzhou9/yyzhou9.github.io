@@ -1,5 +1,7 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a first-year Accounting PhD student at the [John T. Steed School of Accounting](https://price.ou.edu/accounting/), [Price College of Business](https://price.ou.edu/), University of Oklahoma (OU), advised by [Prof. Agnes Cheng](https://www.ou.edu/price/bios/agnes-cheng) and [Prof. Meng Li](https://www.ou.edu/price/bios/meng-li).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research interests lie in financial archival accounting, with a focus on corporate disclosure, labor events, and capital market consequences.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Prior to joining OU, I received a BBA in Accounting from Hong Kong Baptist University, an MSc in Accounting and Finance from the London School of Economics, and an MSc in Accounting from the University of Arizona. I also worked as a research assistant at the China Europe International Business School and an audit intern at KPMG.
+
+Feel free to reach out at [yeyangzhou@ou.edu](mailto:yeyangzhou@ou.edu).

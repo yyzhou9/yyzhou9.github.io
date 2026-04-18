@@ -1,26 +1,17 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**University of Oklahoma**, Ph.D. in Accounting, *2025 - Present*
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**University of Arizona**, MSc in Accounting, *2023 - 2025*
 
-## Experience
+**London School of Economics and Political Science**, MSc in Accounting and Finance, *2022 - 2023*
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Beijing Normal-Hong Kong Baptist University**,  *2018 - 2022*
+
+- *BBA (Hons) in Accounting (1st Class), Hong Kong Baptist University*
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
+- **Programming:** Stata, SAS, Python, R, LaTeX
 - **Languages:** English (Native), French (Fluent)
 
-## Awards & Honors
-
-- **First Prize in Example Competition** - Committee of Example (*2024*)

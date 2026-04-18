@@ -23,6 +23,7 @@ function updateDocumentLocale(locale: string) {
 }
 
 function readPersistedLocale(locales: string[]): string | null {
+  if (typeof window === 'undefined') return null;
   try {
     const raw = localStorage.getItem(LOCALE_STORAGE_KEY);
     return matchLocale(raw, locales);
@@ -32,19 +33,17 @@ function readPersistedLocale(locales: string[]): string | null {
 }
 
 function writePersistedLocale(locale: string) {
+  if (typeof window === 'undefined') return;
   try {
     localStorage.setItem(LOCALE_STORAGE_KEY, locale);
-  } catch {
-    // ignore storage errors
-  }
+  } catch {}
 }
 
 function clearPersistedLocale() {
+  if (typeof window === 'undefined') return;
   try {
     localStorage.removeItem(LOCALE_STORAGE_KEY);
-  } catch {
-    // ignore storage errors
-  }
+  } catch {}
 }
 
 function resolveInitialLocale(config: I18nRuntimeConfig): string {
