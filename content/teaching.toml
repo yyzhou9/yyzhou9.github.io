@@ -5,47 +5,56 @@ title = "Teaching"
 
 
 
+# [[items]]
+# title = "ACCT200 Introduction to Financial Accounting, University of Arizona"
+# subtitle = "Instructor"
+# date = "Summer 2024"
+# content = "Instructor Effectiveness Rating: 4.6 / 5.0"
+# # content = "This course provides an introduction to financial accounting that concentrates on concepts, relationships, and the procedures involved in preparing and analyzing financial statements of for-profit business organizations. Concepts in this class include accounting for assets, liabilities, and owners' equity. Content of this course can be found [here](https://catalog.arizona.edu/courses/0058141)."
+# tags = ["Undergraduate", "ACCT"]
+
+
+# [[items]]
+# title = "ACCT451/551 Financial Statement Analysis, University of Arizona"
+# subtitle = "Teaching Assistant"
+# date = "Fall 2024"
+# # content = "The purpose of this course is to build skills related to understanding accounting disclosures and using the information contained in financial statements. Course topics include profitability measurement, credit analysis, footnote analysis, forecasting and valuation. Cases and examples are used extensively to enhance understanding of key issues and concepts. Content of this course can be found [here](https://catalog.arizona.edu/courses/0365011)."
+# tags = ["Undergraduate", "ACCT"]
+
+
+# [[items]]
+# title = "ACCT200 Introduction to Financial Accounting, University of Arizona"
+# subtitle = "Teaching Assistant"
+# date = "Spring 2025"
+# # content = "This course provides an introduction to financial accounting that concentrates on concepts, relationships, and the procedures involved in preparing and analyzing financial statements of for-profit business organizations. Concepts in this class include accounting for assets, liabilities, and owners' equity. Content of this course can be found [here](https://catalog.arizona.edu/courses/0058141)."
+# tags = ["Undergraduate", "ACCT"]
+
+# [[items]]
+# title = "ACCT5202 Financial Accounting, University of Oklahoma"
+# subtitle = "Teaching Assistant"
+# date = "Fall 2025"
+# # content = "Students will learn to construct and analyze financial statements of for-profit corporate enterprises. The basic accounting model including financial statement recording and preparation will be covered. A major emphasis will be placed on using financial statements for decision making by investors, creditors, and other users. Basic ratio analysis and valuation concepts will be introduced."
+# tags = ["Graduate", "ACCT"]
+
+# [[items]]
+# title = "ACCT3113 Intermediate Accounting I, University of Oklahoma"
+# subtitle = "Teaching Assistant"
+# date = "Spring 2026"
+# # content = "Measurement and reporting of assets including receivables, inventory, investments, fixed assets, and intangible assets; special issues related to revenue recognition."
+# tags = ["Undergraduate", "ACCT"]
+
+
+
+
+
 [[items]]
-title = "ACCT200 Introduction to Financial Accounting, University of Arizona"
-subtitle = "Instructor"
-date = "Summer 2024"
+title = "Instructor"
+subtitle = "ACCT200 Introduction to Financial Accounting, University of Arizona (Summer 2024)"
+# date = "Summer 2024"
 content = "Instructor Effectiveness Rating: 4.6 / 5.0"
-# content = "This course provides an introduction to financial accounting that concentrates on concepts, relationships, and the procedures involved in preparing and analyzing financial statements of for-profit business organizations. Concepts in this class include accounting for assets, liabilities, and owners' equity. Content of this course can be found [here](https://catalog.arizona.edu/courses/0058141)."
-tags = ["Undergraduate", "ACCT"]
-
-
-[[items]]
-title = "ACCT451/551 Financial Statement Analysis, University of Arizona"
-subtitle = "Teaching Assistant"
-date = "Fall 2024"
-# content = "The purpose of this course is to build skills related to understanding accounting disclosures and using the information contained in financial statements. Course topics include profitability measurement, credit analysis, footnote analysis, forecasting and valuation. Cases and examples are used extensively to enhance understanding of key issues and concepts. Content of this course can be found [here](https://catalog.arizona.edu/courses/0365011)."
-tags = ["Undergraduate", "ACCT"]
-
-
-[[items]]
-title = "ACCT200 Introduction to Financial Accounting, University of Arizona"
-subtitle = "Teaching Assistant"
-date = "Spring 2025"
-# content = "This course provides an introduction to financial accounting that concentrates on concepts, relationships, and the procedures involved in preparing and analyzing financial statements of for-profit business organizations. Concepts in this class include accounting for assets, liabilities, and owners' equity. Content of this course can be found [here](https://catalog.arizona.edu/courses/0058141)."
 tags = ["Undergraduate", "ACCT"]
 
 [[items]]
-title = "ACCT5202 Financial Accounting, University of Oklahoma"
-subtitle = "Teaching Assistant"
-date = "Fall 2025"
-# content = "Students will learn to construct and analyze financial statements of for-profit corporate enterprises. The basic accounting model including financial statement recording and preparation will be covered. A major emphasis will be placed on using financial statements for decision making by investors, creditors, and other users. Basic ratio analysis and valuation concepts will be introduced."
-tags = ["Graduate", "ACCT"]
-
-[[items]]
-title = "ACCT3113 Intermediate Accounting I, University of Oklahoma"
-subtitle = "Teaching Assistant"
-date = "Spring 2026"
-# content = "Measurement and reporting of assets including receivables, inventory, investments, fixed assets, and intangible assets; special issues related to revenue recognition."
-tags = ["Undergraduate", "ACCT"]
-
-
-
-
-
-
-
+title = "Teaching Assistant"
+subtitle = "ACCT451/551 Financial Statement Analysis, University of Arizona (Fall 2024)\nACCT200 Introduction to Financial Accounting, University of Arizona (Spring 2025)\nACCT5202 Financial Accounting, University of Oklahoma (Fall 2025)\nACCT3113 Intermediate Accounting I, University of Oklahoma (Spring 2026)"
+tags = ["Undergraduate", "Graduate", "ACCT"]

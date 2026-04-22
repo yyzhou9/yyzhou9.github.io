@@ -1,13 +1,13 @@
 [site]
 title = "Yeyang Zhou"
-description = "PhD Student in Accounting at the University of Oklahoma."
+description = "Ph.D. Student in Accounting at the University of Oklahoma."
 favicon = "/favicon.svg"
 # favicon = ""
 last_updated = "April 2026"
 
 [author]
 name = "Yeyang Zhou"
-title = "PhD Student"
+title = "Ph.D. Student"
 institution = "University of Oklahoma"
 avatar = "/bio.jpg"
 
@@ -30,7 +30,7 @@ linkedin = "https://www.linkedin.com/in/yeyangz/"
 enable_likes = false
 
 # Display all subpages on a single page
-enable_one_page_mode = false
+enable_one_page_mode = true
 
 
 # [i18n]

@@ -4,19 +4,19 @@ description = "Professional services and community involvement."
 
 [[items]]
 title = "Reviewer"
-subtitle = "Journal of Accounting, Auditing and Finance"
-date = "2026"
+subtitle = "Journal of Accounting, Auditing and Finance (2026)"
+# date = "2026"
 # content = "Reviewed papers for..."
 
 [[items]]
 title = "Discussant"
-subtitle = "AAA IAS Midyear Meeting"
-date = "2026"
+subtitle = "AAA International Accounting Section Midyear Meeting (2026)"
+# date = "2026"
 
 [[items]]
 title = "Moderator"
-subtitle = "AAA IAS Midyear Meeting"
-date = "2026"
+subtitle = "AAA International Accounting Section Midyear Meeting (2026)"
+# date = "2026"
 
 
 
