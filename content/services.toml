@@ -1,5 +1,5 @@
 type = "card"
-title = "Services"
+title = "Services & Activities"
 description = "Professional services and community involvement."
 
 [[items]]
@@ -18,3 +18,9 @@ title = "Moderator"
 subtitle = "AAA IAS Midyear Meeting"
 date = "2026"
 
+
+
+[[items]]
+title = "Participation"
+subtitle = "AAA FARS Midyear Meeting (2025, 2026)\nAAA International Accounting Section Midyear Meeting (2026)\nOklahoma State University Ph.D. Alumni Research Conference (2026)\nJournal of Accounting, Auditing and Finance Symposium (2025)\nUniversity of Arizona and Arizona State University Joint Research Conference (2023, 2024)"
+# date = "2023–2026"
