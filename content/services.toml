@@ -4,23 +4,28 @@ description = "Professional services and community involvement."
 
 [[items]]
 title = "Reviewer"
-subtitle = "Journal of Accounting, Auditing and Finance (2026)"
+subtitle = "Journal of Accounting, Auditing and Finance"
 # date = "2026"
 # content = "Reviewed papers for..."
 
 [[items]]
 title = "Discussant"
-subtitle = "AAA International Accounting Section Midyear Meeting (2026)"
+subtitle = "2026 AAA International Accounting Section Midyear Meeting, Cincinnati, OH"
 # date = "2026"
 
 [[items]]
 title = "Moderator"
-subtitle = "AAA International Accounting Section Midyear Meeting (2026)"
+subtitle = "2026 AAA International Accounting Section Midyear Meeting, Cincinnati, OH"
 # date = "2026"
 
 
 
 [[items]]
 title = "Participation"
-subtitle = "AAA FARS Midyear Meeting (2025, 2026)\nAAA International Accounting Section Midyear Meeting (2026)\nOklahoma State University Ph.D. Alumni Research Conference (2026)\nJournal of Accounting, Auditing and Finance Symposium (2025)\nUniversity of Arizona and Arizona State University Joint Research Conference (2023, 2024)"
-# date = "2023–2026"
+subtitle = """2026 AAA FARS Midyear Meeting, San Antonio, TX
+2026 AAA International Accounting Section Midyear Meeting, Cincinnati, OH
+2026 Oklahoma State University Ph.D. Alumni Research Conference, Tulsa, OK
+2025 Journal of Accounting, Auditing and Finance Symposium, New York, NY
+2025 AAA FARS Midyear Meeting, Atlanta, GA
+2024 University of Arizona / Arizona State University Joint Research Conference, Tempe, AZ
+2023 University of Arizona / Arizona State University Joint Research Conference, Tucson, AZ"""
